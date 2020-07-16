@@ -1,0 +1,82 @@
+---
+layout: post
+title: Data Science Portfolio
+---
+
+## Data Science Project Portfolio
+### FELI GENTLE, [Data Scientist, Machine Learning Engineer](https://github.com/oro13)
+
+### Project 1. [Machine Learning Enhancements for Learning Language App](https://github.com/oro13/language-app-ml)
+
+Our app, Totlahtol, is named for the word ‘Languages,’ in Nahuatl: the Aztec language once widely spoken on this continent and in Central America.
+
+My friend in El Paso began working on this application over a year ago. Now I’m helping him enhance the prototype with advanced Machine Learning components. Including, natural language processing of user generated content and a recommender of lessons based on user interests.
+
+## The Data Pipeline, an Overview
+
+My Research has centered on the most important app use case of uplading a lesson and recommending it to users if their activity implies it'd be relevent to them.
+
+In general, a Recommender Needs these Three Steps:
+
+1. item candidate generation
+2. user specific scoring of items
+3. reranking, or sorting the items based on relevance to the user
+
+<p align="center">
+  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/overview-1-shorten2.gif></img>
+  <br><i>Embedding Space using TensorBoard Projector</i>
+</p>
+
+<p align="center">
+  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/topics-1-shorten2.gif></img>
+  <br><i>Topic Modeling with Embedding, to show how similar lessons can be grouped for specific user interests. </i>
+</p>
+
+Tag the Lessons with specific topics, to generate more signal for the recommender.
+
+### Project 2. Soil Health Prediction for Handheld Infrared Application
+
+<img alt='working with the soil' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/Micro_catchment.jpg' width='25%' height='25%'>
+
+[photo by Malherbe Rossouw, South Africa ](https://commons.wikimedia.org/w/index.php?curid=63653257)
+
+## Motivation:
+
+Soil health is our health. Here we hope to improve our tools of assessing soil health and make it widely available.
+
+Infrared spectroscopy has traditionally provided great scientific insight. Now it can improve the quality of life of farmers and their ecosystems.
+
+## Infrared Spectroscopy: An Overview
+
+*Infering nutrients through Infrared Spectroscopy*
+
+Thousands of soil samples have been both scanned with (dry testing) and tested in the lab (wet testing), for a more complete soil profile. The goal is to predict the more detailed nutrient profile by using the coarser, but more efficient and affordable, infrared methods.
+
+## Nutrient Predictions
+
+On the left, you can find the wavelengths important for that specific nutrient model and on the right, the error plot of the predicted values.
+
+### Calcium
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ca1.png' width='25%' height='25%' align=left>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ca2.png' width='25%' height='25%' alight=right>
+
+
+### Magnesium
+
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_mg1.png' width='25%' height='25%' align=left>
+<img alt='infrared spectra' src='https://github.com/oro13/soil-health-prediction/blob/master/img/final_mg2.png' width='25%' height='25%' alight=right>
+
+### Potassium
+
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_k1.png' width='25%' height='25%' align=left>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_k2.png' width='25%' height='25%' alight=right>
+
+### Phosphorus
+
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_p1.png' width='25%' height='25%' align=left>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_p2.png' width='25%' height='25%' alight=right>
+
+### Soil pH
+
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ph1.png' width='25%' height='25%' align=left>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ph2.png' width='25%' height='25%' alight=right>
