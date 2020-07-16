@@ -14,7 +14,7 @@ My friend in El Paso began working on this application over a year ago. Now I’
 
 ## The Data Pipeline, an Overview
 
-My Research has centered on the most important app use case of uplading a lesson and recommending it to users if their activity implies it'd be relevent to them.
+My Research has centered on the most important app use case of uploading a lesson and recommending it to users if their activity implies it'd be relevent to them.
 
 In general, a Recommender Needs these Three Steps:
 
@@ -22,15 +22,12 @@ In general, a Recommender Needs these Three Steps:
 2. user specific scoring of items
 3. reranking, or sorting the items based on relevance to the user
 
-
-  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/overview-1-shorten2.gif  width='35%' height='35%' align=left>
-  <br><i>Embedding Space using TensorBoard Projector</i>
-
-  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/topics-1-shorten2.gif width='35%' height='35%' align=right>
-  <br><i>Topic Modeling with Embedding, to show how similar lessons can be grouped for specific user interests. </i>
+  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/topics-1-shorten2.gif width='35%' height='35%' align=center>
+  
+  Topic Modeling with Embedding, to show how similar lessons can be grouped for specific user interests.
 
 
-Tag the Lessons with specific topics, to generate more signal for the recommender.
+---
 
 ### Project 2. Soil Health Prediction for Handheld Infrared Application
 
