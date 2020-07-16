@@ -22,7 +22,7 @@ In general, a Recommender Needs these Three Steps:
 2. user specific scoring of items
 3. reranking, or sorting the items based on relevance to the user
 
-![app-prototype(/images/ds-portfolio/login.gif)
+![app-prototype](/images/ds-portfolio/login.gif)
 
 <img src='/images/ds-portfolio/login.gif' width='50%' height='50%' align=center>
 <br><i>The User logins in, uploads a lesson, and gets a recommended feed.</i>
