@@ -4,9 +4,10 @@ title: Data Science Portfolio
 ---
 
 ## Data Science Project Portfolio
-### FELI GENTLE, [Data Scientist, Machine Learning Engineer](https://github.com/oro13)
 
-## Project 1. [Machine Learning Enhancements for Learning Language App](https://github.com/oro13/language-app-ml)
+#### Feli Gentle, [Data Scientist, Machine Learning Engineer](https://github.com/oro13)
+
+### Project 1. [Machine Learning Enhancements for Learning Language App](https://github.com/oro13/language-app-ml)
 
 Our app, Totlahtol, is named for the word ‘Languages,’ in Nahuatl: the Aztec language once widely spoken on this continent and in Central America.
 
@@ -29,7 +30,7 @@ In general, a Recommender Needs these Three Steps:
 
 ---
 
-## Project 2. Soil Health Prediction for Handheld Infrared Application
+### Project 2. Soil Health Prediction for Handheld Infrared Application
 
 <img alt='working with the soil' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/Micro_catchment.jpg' width='50%' height='50%'>
 
