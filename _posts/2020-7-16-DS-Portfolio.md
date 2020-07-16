@@ -51,10 +51,10 @@ Thousands of soil samples have been both scanned with (dry testing) and tested i
 On the left, you can find the wavelengths important for that specific nutrient model and on the right, the error plot of the predicted values.
 
 #### Calcium
-<img alt='infrared spectra' src=/images/ds-portfolio/final_ca1.png width='35%' height='35%' align=left>
-<img alt='infrared spectra' src=/images/ds-portfolio/final_ca2.png width='35%' height='35%' alight=right>
+![infrared spectra](src=/images/ds-portfolio/final_ca1.png)
+![infrared spectra](src=/images/ds-portfolio/final_ca2.png)
 
 #### Soil pH
 
-<img alt='infrared spectra' src=/images/ds-portfolio/final_ph1.png width='35%' height='35%' align=left>
-<img alt='infrared spectra' src=/images/ds-portfolio/final_ph2.png width='35%' height='35%' alight=right>
+![infrared spectra](src=/images/ds-portfolio/final_ph1.png)
+![infrared spectra](src=/images/ds-portfolio/final_ph2.png)
