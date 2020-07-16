@@ -34,7 +34,7 @@ Find out more about the project and research [here](https://github.com/oro13/lan
 
 ---
 
-### Project 2. Soil Health Prediction for Handheld Infrared Application
+### Project 2. [Soil Health Prediction for Handheld Infrared Application](https://github.com/oro13/soil-health-prediction)
 
 Soil health is our health. Here we hope to improve our tools of assessing soil health and make it widely available.
 
