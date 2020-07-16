@@ -22,10 +22,10 @@ In general, a Recommender Needs these Three Steps:
 2. user specific scoring of items
 3. reranking, or sorting the items based on relevance to the user
 
-<img src=../images/ds-portfolio/login.gif width='50%' height='50%' align=center>
+<img src='/images/ds-portfolio/login.gif' width='50%' height='50%' align=center>
 <br><i>The User logins in, uploads a lesson, and gets a recommended feed.</i>
  
-<img src=../images/ds-portfolio/pylda_vis.gif width='45%' height='45%' align=center>
+<img src='/images/ds-portfolio/pylda_vis.gif' width='45%' height='45%' align=center>
 <br><i>Using LDA to tag the user uploaded lessons with latent topic ids.</i>
 
 Find out more [here](https://github.com/oro13/language-app-ml)
