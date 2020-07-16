@@ -57,4 +57,4 @@ On the left, you can find the wavelengths important for that specific nutrient m
 #### Soil pH
 
 <img alt='infrared spectra' src=/images/ds-portfolio/final_ph1.png width='35%' height='35%' align=left>
-<img alt='infrared spectra' src=/images/ds-portfolio/final_ph2.png' width='35%' height='35%' alight=right>
+<img alt='infrared spectra' src=/images/ds-portfolio/final_ph2.png width='35%' height='35%' alight=right>
