@@ -22,15 +22,13 @@ In general, a Recommender Needs these Three Steps:
 2. user specific scoring of items
 3. reranking, or sorting the items based on relevance to the user
 
-<p align="center">
-  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/overview-1-shorten2.gif></img>
-  <br><i>Embedding Space using TensorBoard Projector</i>
-</p>
 
-<p align="center">
-  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/topics-1-shorten2.gif></img>
+  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/overview-1-shorten2.gif>  width='35%' height='35%' align=left</img>
+  <br><i>Embedding Space using TensorBoard Projector</i>
+
+  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/topics-1-shorten2.gif> width='35%' height='35%' align=right</img>
   <br><i>Topic Modeling with Embedding, to show how similar lessons can be grouped for specific user interests. </i>
-</p>
+
 
 Tag the Lessons with specific topics, to generate more signal for the recommender.
 
@@ -57,26 +55,26 @@ Thousands of soil samples have been both scanned with (dry testing) and tested i
 On the left, you can find the wavelengths important for that specific nutrient model and on the right, the error plot of the predicted values.
 
 ### Calcium
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ca1.png' width='25%' height='25%' align=left>
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ca2.png' width='25%' height='25%' alight=right>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ca1.png' width='35%' height='35%' align=left>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ca2.png' width='35%' height='35%' alight=right>
 
 
 ### Magnesium
 
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_mg1.png' width='25%' height='25%' align=left>
-<img alt='infrared spectra' src='https://github.com/oro13/soil-health-prediction/blob/master/img/final_mg2.png' width='25%' height='25%' alight=right>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_mg1.png' width='35%' height='35%' align=left>
+<img alt='infrared spectra' src='https://github.com/oro13/soil-health-prediction/blob/master/img/final_mg2.png' width='35%' height='35%' alight=right>
 
 ### Potassium
 
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_k1.png' width='25%' height='25%' align=left>
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_k2.png' width='25%' height='25%' alight=right>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_k1.png' width='35%' height='35%' align=left>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_k2.png' width='35%' height='35%' alight=right>
 
 ### Phosphorus
 
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_p1.png' width='25%' height='25%' align=left>
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_p2.png' width='25%' height='25%' alight=right>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_p1.png' width='35%' height='35%' align=left>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_p2.png' width='35%' height='35%' alight=right>
 
 ### Soil pH
 
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ph1.png' width='25%' height='25%' align=left>
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ph2.png' width='25%' height='25%' alight=right>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ph1.png' width='35%' height='35%' align=left>
+<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ph2.png' width='35%' height='35%' alight=right>
