@@ -36,10 +36,6 @@ Find out more about the project and research [here](https://github.com/oro13/lan
 
 ### Project 2. Soil Health Prediction for Handheld Infrared Application
 
-<img alt='working with the soil' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/Micro_catchment.jpg' width='50%' height='50%'>
-
-[photo by Malherbe Rossouw, South Africa ](https://commons.wikimedia.org/w/index.php?curid=63653257)
-
 Soil health is our health. Here we hope to improve our tools of assessing soil health and make it widely available.
 
 Infrared spectroscopy has traditionally provided great scientific insight. Now it can improve the quality of life of farmers and their ecosystems.
@@ -55,10 +51,10 @@ Thousands of soil samples have been both scanned with (dry testing) and tested i
 On the left, you can find the wavelengths important for that specific nutrient model and on the right, the error plot of the predicted values.
 
 #### Calcium
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ca1.png' width='35%' height='35%' align=left>
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ca2.png' width='35%' height='35%' alight=right>
+<img alt='infrared spectra' src=/images/ds-portfolio/final_ca1.png width='35%' height='35%' align=left>
+<img alt='infrared spectra' src=/images/ds-portfolio/final_ca2.png width='35%' height='35%' alight=right>
 
 #### Soil pH
 
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ph1.png' width='35%' height='35%' align=left>
-<img alt='infrared spectra' src='https://raw.githubusercontent.com/oro13/soil-health-prediction/master/img/final_ph2.png' width='35%' height='35%' alight=right>
+<img alt='infrared spectra' src=/images/ds-portfolio/final_ph1.png width='35%' height='35%' align=left>
+<img alt='infrared spectra' src=/images/ds-portfolio/final_ph2.png' width='35%' height='35%' alight=right>
