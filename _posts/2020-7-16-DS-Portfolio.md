@@ -9,11 +9,10 @@ A sampling of data science projects I've worked on, recently.
 
 ### Project 1. [Machine Learning Enhancements for Learning Language App](https://github.com/oro13/language-app-ml)
 
-Our app, Totlahtol, is named for the word ‘Languages,’ in Nahuatl: the Aztec language once widely spoken on this continent and in Central America.
 
-My friend in El Paso began working on this application over a year ago. Now I’m helping him enhance the prototype with advanced Machine Learning components. Including, natural language processing of user generated content and a recommender of lessons based on user interests.
+I’m helping enhance the prototype with advanced Machine Learning components. Including, natural language processing of user generated content and a recommender of lessons based on user interests.
 
-#### The Data Pipeline, an Overview
+#### Data Pipeline Overview
 
 My Research has centered on the most important app use case of uploading a lesson and recommending it to users if their activity implies it'd be relevent to them.
 
@@ -23,10 +22,13 @@ In general, a Recommender Needs these Three Steps:
 2. user specific scoring of items
 3. reranking, or sorting the items based on relevance to the user
 
-  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/topics-1-shorten2.gif width='45%' height='45%' align=center>
-  
-  Topic Modeling with Embedding, to show how similar lessons can be grouped for specific user interests.
+<img src=img/ds-portfolio/login.gif width='50%' height='50%' align=center>
+<br><i>The User logins in, uploads a lesson, and gets a recommended feed.</i>
+ 
+<img src=img/ds-portfolio/pylda_vis.gif width='45%' height='45%' align=center>
+<br><i>Using LDA to tag the user uploaded lessons with latent topic ids.</i>
 
+Find out more [here](https://github.com/oro13/language-app-ml)
 
 ---
 
