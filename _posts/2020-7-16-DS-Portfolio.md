@@ -23,10 +23,10 @@ In general, a Recommender Needs these Three Steps:
 3. reranking, or sorting the items based on relevance to the user
 
 
-  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/overview-1-shorten2.gif  width='35%' height='35%' align=left</img>
+  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/overview-1-shorten2.gif  width='35%' height='35%' align=left>
   <br><i>Embedding Space using TensorBoard Projector</i>
 
-  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/topics-1-shorten2.gif width='35%' height='35%' align=right</img>
+  <img src=https://raw.githubusercontent.com/oro13/language-app-ml/master/media/topics-1-shorten2.gif width='35%' height='35%' align=right>
   <br><i>Topic Modeling with Embedding, to show how similar lessons can be grouped for specific user interests. </i>
 
 
