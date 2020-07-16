@@ -3,7 +3,7 @@ layout: post
 title: Data Science Portfolio
 ---
 
-## Data Science Project Portfolio
+A sampling of data science projects I've worked on, recently.
 
 #### Feli Gentle, [Data Scientist, Machine Learning Engineer](https://github.com/oro13)
 
