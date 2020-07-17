@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Science Portfolio
+title: Data Science Portfolio (in Progress)
 ---
 
 A sampling of data science projects I've worked on, recently.
