@@ -1,4 +1,4 @@
-Kick starting a Market Place
+Kick Starting a Market Place Business
 
 The second article of notes on Lenny Rachitskey's (ex-AirBnB) interview on the [Two-Sided podcast](https://www.sharetribe.com/twosided/)
 
