@@ -1,4 +1,4 @@
-Quickly assessing a Market Place Business
+Quickly Assessing a Market Place Business
 
 Notes on Lenny Rachitskey's (ex-AirBnB) interview on the [Two-Sided podcast](https://www.sharetribe.com/twosided/)
 
@@ -77,3 +77,4 @@ Is this something both sides of the markets want? (buyers and sellers)
   - is there a better way to provide the service with a better customer experience?
     - there's nothing magic about a market place other than being a more efficient way to run a business
 
+Look out for Strategy 2 in the next article in the series on market place businesses.
