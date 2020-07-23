@@ -77,16 +77,3 @@ Is this something both sides of the markets want? (buyers and sellers)
   - is there a better way to provide the service with a better customer experience?
     - there's nothing magic about a market place other than being a more efficient way to run a business
 
----
-
-## Strategy 2: Kick starting a market place
-
-How to solve the chicken-egg problem, where most marketplaces die, the early phase where there arent enough buyers to be useful to suppliers and/or the other way around.
-
-### 1. constrain your marketplace to the minimum viable marketplace
-
-### 2. concentrate on one side, supply or demand
-
-### 3. build supply (80% of these companies focused on supply first, almost exclusively
-
-### 4. Build demand
