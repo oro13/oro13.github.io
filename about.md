@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Strategist for Business Intelligence and Social Coordination
 
 ### More Information
 
-Pragmatic lucid day dreamers are welcome here.
+Data Scientist, Business Analyst, Data and ML Engineer
 
 ### Contact me
 
