@@ -5,9 +5,11 @@ title: Data Science Portfolio (in Progress)
 
 A sampling of data science projects I've worked on, recently.
 
-#### Feli Gentle, [Data Scientist, Machine Learning Engineer](https://github.com/oro13)
+## Feli Gentle, [Data Scientist, Machine Learning Engineer](https://github.com/oro13)
 
-### Project 1. [Machine Learning Enhancements for Learning Language App](https://github.com/oro13/language-app-ml)
+# Project 1
+
+### [Machine Learning Enhancements for Learning Language App](https://github.com/oro13/language-app-ml)
 
 
 I’m helping enhance the prototype with advanced Machine Learning components. Including, natural language processing of user generated content and a recommender of lessons based on user interests.
@@ -32,9 +34,15 @@ In general, a Recommender Needs these Three Steps:
 
 Find out more about the project and research [here](https://github.com/oro13/language-app-ml)
 
----
 
-### Project 2. [Soil Health Prediction for Handheld Infrared Application](https://github.com/oro13/soil-health-prediction)
+
+
+
+
+---
+# Project 2
+
+### [Soil Health Prediction for Handheld Infrared Application](https://github.com/oro13/soil-health-prediction)
 
 Soil health is our health. Here we hope to improve our tools of assessing soil health and make it widely available.
 
