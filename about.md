@@ -12,6 +12,4 @@ Data Scientist, Business Analyst, Data and ML Engineer
 
 ### Contact me
 
-[email](mailto:earthaffirm@tuta.io)
-[LinkedIn](https://www.linkedin.com/in/fgentle/)
-[GitHub](https://github.com/oro13/)
+(see below)
