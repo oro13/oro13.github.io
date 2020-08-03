@@ -8,7 +8,7 @@ Context: Lenny Rachitskey was an early employee of AirBnB and credited for playi
 
 ### 1. Start with something people actually want
 
-is this a good product? is it solving a problem for people? Is this something people purchase once for cheap or is it a reoccurring or high value transaction?
+Is this a good product? Is it solving a problem for people? Is this something people purchase once for cheap or is it a reoccurring or high value transaction?
 
 ### 2. Don't assume what HAS worked WILL work
 
@@ -18,7 +18,7 @@ Just because it worked for Company X doesn't mean it will work for you. Growth c
 
 Put your energy and resources to build a "white hot center," something thats working really well, even at a tiny scale before focusing on growth strategies. This stage may include strategies that don't scale well beyond a certain location or number of participants. 
 
-For example, when Uber was just beginning, it paid its drivers a salary to ensure there would be enough supply for rides for a user opening the app at any given time of day. There is an art to overcoming this "chicken and egg" phase of the market platform, where most projects end up dying before the potential buyers and sellers can even find the app and make use of its coordination. More on this topic in the Kick Starting a Market Place section below.
+For example, when Uber was just beginning, it paid its drivers a salary to ensure there would be enough supply for rides for a user opening the app at any given time of day. There is an art to overcoming this "chicken and egg" phase of the market platform, where most projects end up dying before the potential buyers and sellers can even find the app and make use of its coordination. More on this 'Kick Starting a Market Place'in the next blog post in the series!
 
 ## Strategy 1: Quickly assessing a Market Place Business
 
